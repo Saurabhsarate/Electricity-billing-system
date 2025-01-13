@@ -46,8 +46,7 @@ Electricity-billing-system
 2. Navigate through the menu to manage customers, generate bills, and view reports.
 3. Use the search and filter options for quick access to data.
 
-## Screenshots
-Add screenshots of the application here (e.g., login screen, bill generation screen, reports).
+
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request with detailed descriptions of your changes.
